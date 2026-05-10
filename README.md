@@ -1,49 +1,140 @@
-<h1 align="center">Hi 👋, I'm Wazir Mubashir Hussain, a versatile Full Stack Developer with expertise in Shopify development. With a strong command over React.js, Node.js, PHP, MySQL, HTML, CSS, JavaScript, Next.js, and Shopify's .liquid templating language, I craft robust and scalable solutions for diverse web projects.</h1>
-<h3 align="center">A Self Taught React JS developer from Pakistan</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wazir908&label=Profile%20views&color=0e75b6&style=flat" alt="wazir908" /> </p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f766e,100:14b8a6&height=220&section=header&text=Wazir%20Mubashir%20Hussain&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Full%20Stack%20Engineer%20%C2%B7%20Shopify%20Architect%20%C2%B7%20AI%20Builder&descSize=16&descAlignY=58&animation=fadeIn)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wazir908" alt="wazir908" /></a> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=600&color=14B8A6&center=true&vCenter=true&width=720&lines=Full+Stack+Engineer+%C2%B7+5%2B+Years;Senior+Shopify+Developer;React+%26+Next.js+Specialist;Mobile+App+Builder+%C2%B7+React+Native;AI-Integrated+Commerce+Systems;Production-Grade.+Performance-First.)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on [Inno Sync Web Hub](https://innosyncweb.netlify.app/)
+<br/>
 
-- 🌱 I’m currently learning **Golang, Node JS**
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=500&lines=Building+commerce+at+the+intersection+of+code+%26+conversion." alt="tagline" />
+</a>
 
-- 👨‍💻 Shopify Development [Ecommerce Development](https://easycareskin.netlify.app)
+</div>
 
-- 🤝 React Js Development [Developer Portfolio](https://wmh-devfolio.netlify.app)
+---
 
-- 👨‍💻 All of my projects are available at [https://wmh-devfolio.netlify.app](https://wmh-devfolio.netlify.app)
+### About
 
-- 📝 I regularly write articles on [https://innosyncwebhub.netlify.app/blog](https://innosyncwebhub.netlify.app/blog)
+I'm a full stack engineer with **5+ years** shipping production systems end-to-end — from pixel-perfect Shopify storefronts to React Native mobile apps, scalable Node backends, and AI-integrated platforms. I build the whole stack: frontend that converts, backends that scale, mobile experiences users actually keep installed, and automation pipelines that quietly run businesses in the background.
 
-- 👨‍💻 Shopify Development **.liquid templating language, Shopify API, Custom Theme Development, App Development**
+Equally at home writing Liquid for a high-traffic Shopify store, architecting a Next.js SaaS dashboard, deploying a React Native app to production, or wiring an LLM into a real merchant workflow. I optimize for **shipping**, **measurable impact**, and **clean architecture** — in that order.
 
-- 📫 How to reach me **Wazirmubashir2021@gmail.com**
+<div align="center">
 
-- 📄 Know about my experiences [https://wmh-devfolio.netlify.app](https://wmh-devfolio.netlify.app)
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
 
-- ⚡ Front-End Tech I Use **React.js, HTML, CSS, JavaScript, Next.js, Bootstrap, Tailwind Css**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/wazirmubashirhussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="wazirmubashirhussain" height="30" width="40" /></a>
-<a href="https://dev.to/wmh-devfolio.netlify.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="wmh-devfolio.netlify.app" height="30" width="40" /></a>
-<a href="https://twitter.com/wazirmubashirhussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wazirmubashirhussain" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/wazirmubashirhussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wazirmubashirhussain" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/wazirmubashirhussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="wazirmubashirhussain" height="30" width="40" /></a>
-<a href="https://codesandbox.com/wazirmubashirhussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="wazirmubashirhussain" height="30" width="40" /></a>
-<a href="https://fb.com/mubashirwaxir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mubashirwaxir" height="30" width="40" /></a>
-<a href="https://instagram.com/wazxirmubashir_786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wazxirmubashir_786" height="30" width="40" /></a>
-<a href="https://dribbble.com/wazirmubashirhussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="wazirmubashirhussain" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/wazirmubashirhussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wazirmubashirhussain" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### Core Competencies
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wazir908&show_icons=true&locale=en&layout=compact" alt="wazir908" /></p>
+| Full Stack & Web | Mobile & Cross-Platform | Shopify & Commerce |
+|---|---|---|
+| React · Next.js · TypeScript | React Native · Expo | Liquid theme architecture |
+| Node.js · Express · REST + GraphQL | Native modules · Push notifications | Storefront & Admin APIs |
+| PostgreSQL · MongoDB · Supabase | App Store / Play Store deployment | Checkout extensibility |
+| Auth, RBAC, real-time systems | Offline-first patterns | Custom apps + App Proxy |
+| Tailwind · animation systems | Mobile-first responsive UI | CRO & performance tuning |
+| Python automation · scraping | In-app purchases · deep linking | Headless storefronts |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wazir908&show_icons=true&locale=en" alt="wazir908" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wazir908&" alt="wazir908" /></p>
+### Tech Stack
+
+<div align="center">
+
+**Frontend & Mobile**
+
+[![Frontend](https://skillicons.dev/icons?i=js,ts,react,nextjs,reactnative,tailwind,html,css,bootstrap,figma&perline=10)](https://skillicons.dev)
+
+**Backend & Data**
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,python,php,postgresql,mongodb,mysql,firebase,supabase,graphql&perline=10)](https://skillicons.dev)
+
+**Commerce, AI & Tooling**
+
+[![Tools](https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode,postman,docker,linux&perline=10)](https://skillicons.dev)
+[![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white)](https://shopify.dev)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
+[![Claude](https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://anthropic.com)
+[![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev)
+
+</div>
+
+---
+
+### What I Build
+
+- **Production Shopify themes** — custom Liquid architecture engineered for conversion, Core Web Vitals, and merchant maintainability
+- **Full stack web platforms** — Next.js + Node + Postgres systems: admin dashboards, CRMs, HRMs, order management, analytics pipelines
+- **React Native mobile apps** — production-ready cross-platform apps shipped to both stores, with native modules, push, and offline support
+- **AI-integrated commerce** — LLM-powered product generation, intelligent search, automated support agents, and AI-driven merchandising workflows
+- **Custom Shopify apps** — App Proxy, webhooks, Admin API integrations for inventory, logistics, and automation use cases
+- **Automation systems** — WhatsApp order flows, multi-channel sync, abandoned-cart recovery, scheduled scrapers and ETL jobs
+
+---
+
+### Side Project · AI-Integrated E-Commerce Mobile App
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=14B8A6&center=true&vCenter=true&width=600&lines=Production-Ready+%C2%B7+React+Native+%C2%B7+AI-Powered" alt="side project" />
+
+</div>
+
+A production-grade **e-commerce mobile app** built solo with **React Native + Expo**, backed by a Node.js API and PostgreSQL, with **AI integrated end-to-end** — from intelligent product discovery and personalized recommendations to LLM-powered customer support and automated content generation.
+
+**Stack:** React Native · Expo · TypeScript · Node.js · PostgreSQL · Supabase · OpenAI / Claude APIs · Stripe · Push Notifications
+
+**Highlights:**
+- AI-powered semantic product search and personalized merchandising
+- Real-time inventory sync with Shopify backend via Admin API
+- Native checkout with Stripe + Apple Pay / Google Pay
+- LLM-driven support agent handling order queries autonomously
+- Offline-first architecture with optimistic UI updates
+- Built, tested, and shipped to both App Store and Play Store
+
+This is the project where my Shopify, full stack, and AI work converge — and it's the clearest snapshot of what I actually do.
+
+---
+
+### Shopify Specialization
+
+Deep expertise across the entire Shopify stack — theme to checkout to headless.
+
+- **Theme Architecture** — Custom themes from scratch on Dawn, Horizon, OS 2.0. Section groups, theme blocks, dynamic metafields.
+- **Liquid Engineering** — Complex section logic, async variant fetching, quick-view modals, custom cart drawers, predictive search.
+- **API Integrations** — Storefront API, Admin API (REST + GraphQL), webhooks, App Proxy endpoints, multi-store sync.
+- **Checkout Extensibility** — Checkout UI extensions, Shopify Functions, post-purchase flows.
+- **Performance & CRO** — Core Web Vitals optimization, lazy loading, third-party audits, A/B-tested funnels.
+- **Headless** — Hydrogen, Next.js Commerce, custom storefronts hitting the Storefront API directly.
+
+---
+
+### Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:YOUR_EMAIL@domain.com">
+  <img src="https://img.shields.io/badge/Email-14b8a6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=14b8a6" alt="Portfolio" />
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2500&pause=1200&color=14B8A6&center=true&vCenter=true&width=420&lines=Open+to+senior+full+stack+engagements." alt="status" />
+
+</div>
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,50:0f766e,100:0d1117&height=120&section=footer&animation=fadeIn)
+
+</div>
